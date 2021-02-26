@@ -65,6 +65,7 @@
 				</feature>
 		</config-file>
 		
+        <framework src="com.android.support:support-v4:+" />
         <framework src="com.google.firebase:firebase-core:+" />
         <framework src="com.google.firebase:firebase-messaging:21.0.0" />
 		
