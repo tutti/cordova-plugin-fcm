@@ -10,6 +10,7 @@ buildscript {
 }
 
 dependencies {
+    implementation 'com.android.support:support-v4:20.0.+'
     compile 'com.android.support:support-v4:+'
 }
 // apply plugin: 'com.google.gms.google-services'
