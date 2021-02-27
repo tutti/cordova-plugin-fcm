@@ -52,7 +52,7 @@ if (directoryExists(IOS_DIR)) {
     copyKey(PLATFORM.IOS);
 }
 if (directoryExists(ANDROID_DIR)) {
-    copyKey(PLATFORM.ANDROID, updateStringsXml)
+    //copyKey(PLATFORM.ANDROID, updateStringsXml)
 }
 
 function updateStringsXml(contents) {
